@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Day11" isTestSource="false" packagePrefix="javabasic.ch12" />
+      <sourceFolder url="file://$MODULE_DIR$/Day12" isTestSource="false" packagePrefix="javabasic.ch12" />
+      <sourceFolder url="file://$MODULE_DIR$/Day13" isTestSource="false" packagePrefix="javabasic.ch13" />
+      <sourceFolder url="file://$MODULE_DIR$/Day14" isTestSource="false" packagePrefix="javabasic.ch14" />
+      <sourceFolder url="file://$MODULE_DIR$/Day15" isTestSource="false" packagePrefix="javabasic.ch16" />
+      <sourceFolder url="file://$MODULE_DIR$/Day16" isTestSource="false" packagePrefix="javabasic.ch16" />
+      <sourceFolder url="file://$MODULE_DIR$/Day17" isTestSource="false" packagePrefix="javabasic.ch18" />
+      <sourceFolder url="file://$MODULE_DIR$/Day18" isTestSource="false" packagePrefix="javabasic.ch18" />
+      <sourceFolder url="file://$MODULE_DIR$/Day19" isTestSource="false" packagePrefix="javabasic.ch19" />
+      <sourceFolder url="file://$MODULE_DIR$/Day2" isTestSource="false" packagePrefix="javabasic.ch03" />
+      <sourceFolder url="file://$MODULE_DIR$/Day20" isTestSource="false" packagePrefix="chapter20" />
+      <sourceFolder url="file://$MODULE_DIR$/Day3" isTestSource="false" packagePrefix="javabasic.ch04" />
+      <sourceFolder url="file://$MODULE_DIR$/Day4" isTestSource="false" packagePrefix="javabasic.ch05" />
+      <sourceFolder url="file://$MODULE_DIR$/Day5" isTestSource="false" packagePrefix="javabasic.ch07" />
+      <sourceFolder url="file://$MODULE_DIR$/Day6" isTestSource="false" packagePrefix="javabasic.ch07" />
+      <sourceFolder url="file://$MODULE_DIR$/Day7" isTestSource="false" packagePrefix="javabasic.ch08.poly" />
+      <sourceFolder url="file://$MODULE_DIR$/Day8" isTestSource="false" packagePrefix="javabasic.ch09" />
+      <sourceFolder url="file://$MODULE_DIR$/Day9" isTestSource="false" packagePrefix="javabasic.ch10" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

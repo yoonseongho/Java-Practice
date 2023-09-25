@@ -1,0 +1,12 @@
+INSERT INTO member (memberno, id, NAME) VALUES (1, 'hong', '홍길동');
+UPDATE member SET id = 'kim', name = '김유신' WHERE memberno=1;
+DELETE FROM member WHERE memberno=1;
+SELECT * FROM member;
+SELECT memberno, id, name FROM member;
+SELECT id FROM member WHERE memberno=1;
+
+
+
+
+
+
